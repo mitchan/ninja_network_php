@@ -2,15 +2,15 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Ninja Network</title>
+        <title>Ninja Network - Home</title>
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-         <h1>Welcome to the ninja network</h1>
-         <p>Click the button below to see the list of ninjas</p>
+         <h2>Currently Available Ninjas</h2>
 
-         <a href="/ninjas" class="btn">
-            Find Ninjas!
-         </a>
+         <ul>
+             <li>Ninjas here</li>
+         </ul>
     </body>
 </html>
+
